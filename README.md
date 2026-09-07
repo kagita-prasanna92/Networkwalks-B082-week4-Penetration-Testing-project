@@ -6,7 +6,7 @@ This project focuses on understanding the fundamentals of penetration testing an
 
 #  Project Details
 
-| Component | Details |
+|  | Details |
 |---|---|
 | project type | penetration testing &vulnerability assessment |
 | client Name | Mediroza General hospital |
