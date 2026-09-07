@@ -82,6 +82,7 @@ I consolidated the assessment into a structured penetration-testing report desig
 
 
 **Tool & Techniques**
+
 The engagement involved the following tools and techniques:
 Nmap
 Gobuster
@@ -95,6 +96,7 @@ Linux command-line utilities
 Tools were used only within the authorized assessment scope and for educational purposes.
 
 **Key Takeaways**
+
 This engagement helped me strengthen my practical understanding of:
 
 Reconnaissance and attack-surface analysis
@@ -110,9 +112,10 @@ Communicating security findings clearly
 The most important outcome was learning to remain methodical when the first approach fails. A successful assessment is not only about finding a weakness; it is also about validating risk responsibly, protecting sensitive information, and providing useful remediation guidance.
 
 **🔒 Disclosure and Data-Handling Statement**
+
 This project was performed in an authorized, controlled educational environment. The public version has been sanitized to protect confidential information.
 
-The following materials are not included in this repository:
+**The following materials are not included in this repository:**
 
 Patient names or medical information
 Passwords or credentials
@@ -130,4 +133,5 @@ The complete report is intended only for the authorized internship or academic r
 Thank you to the NetworkWalks team for providing a realistic and valuable environment in which to develop practical penetration-testing and professional reporting skills.
 
 **⚠️ Disclaimer**
+
 This repository is for educational and portfolio purposes only. The techniques discussed in the private assessment must never be used against systems without explicit written permission from the owner.
