@@ -12,7 +12,6 @@ This project focuses on understanding the fundamentals of penetration testing an
 | client Name | Mediroza General hospital |
 | Target | https://medirozahospital.com |
 | Rules | Testing limited to the target domain only ,np social engineering, no denial of service , no testing outside agreed scope |
-| Attack Method | Dictionary-based password testing |
 | Authorization | The client has provided written authorisation to conduct security testing on their web infrastructure |
 
 ---
