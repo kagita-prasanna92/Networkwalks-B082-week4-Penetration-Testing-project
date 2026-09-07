@@ -27,7 +27,7 @@ The lab focused on understanding the penetration testing process, including Init
 ---
 **Completed Milestones**
 
-**🔎 Milestone 1** — Initial Access and Application Assessment
+** Milestone 1** — Initial Access and Application Assessment
 I performed passive and active reconnaissance, including domain information review, DNS enumeration, service discovery, web technology identification, and directory enumeration.
 
 The assessment identified an authentication and input-handling weakness in a web application. Within the authorized scope, I validated that confidential laboratory-report resources could be accessed without the intended level of protection.
