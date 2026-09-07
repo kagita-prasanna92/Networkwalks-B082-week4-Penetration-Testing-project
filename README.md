@@ -1,21 +1,24 @@
 # Networkwalks-B082-week4-Penetration-Testing-project
 This project focuses on understanding the fundamentals of penetration testing and ethical hacking. The activities involve identifying vulnerabilities, assessing security weaknesses, and analyzing potential risks in an authorized lab environment using industry-standard cybersecurity tools and techniques
 
+
 ---
 
-#****Project Details ****
+#  Project Details
+
+| Component | Details |
 |---|---|
-|  project type | penetration testing &vulnerability assessment |
+| project type | penetration testing &vulnerability assessment |
 | client Name | Mediroza General hospital |
 | Target | https://medirozahospital.com |
-| Rules  | Testing limited to the target domain only ,np social engineering, no denial of service , no testing outside agreed scope |
+| Rules | Testing limited to the target domain only ,np social engineering, no denial of service , no testing outside agreed scope |
+| Attack Method | Dictionary-based password testing |
 | Authorization | The client has provided written authorisation to conduct security testing on their web infrastructure |
 
 ---
 
 
-
-#**📌 Project Overview**
+**📌 Project Overview**
 ---
 
 I performed a practical Penetration Testing Lab using Kali Linux tools
